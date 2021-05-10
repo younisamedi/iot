@@ -4,7 +4,7 @@
 # This script is licensed under GNU GPL version 2.0 or above
 #=========================================================================================
 #title           : speakG.sh
-#description     : this script uses Google Translate voice to read your text or file
+#description     : this script uses Google Translate voice (close to natural speaking) to read your text or text in a file
 #date            : MAY 2019
 #version         : 1.0    
 #usage           : You can provide text as argument or read from a file, see the example:
