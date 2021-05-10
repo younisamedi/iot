@@ -1,0 +1,3 @@
+- Python, Go, and Bash Scripts for Raspberry Pi
+- GPIO and other configuration guide
+- Mini projects 
